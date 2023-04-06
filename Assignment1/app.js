@@ -1,6 +1,6 @@
 // *******************CH 1**********************
         // Question No 1
-alert("Hello User!  Welcome to the website");
+ alert("Hello User!  Welcome to the website");
 
         // Question No 2
 alert("Error! Please enter a valid password.");
