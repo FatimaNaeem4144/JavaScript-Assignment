@@ -1,5 +1,5 @@
         // Question No 1
-let array = [""];
+// let array = [""];
 
         // Question No 2
 // let matrix = [
