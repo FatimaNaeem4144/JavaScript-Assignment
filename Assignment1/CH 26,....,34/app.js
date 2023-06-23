@@ -1,4 +1,4 @@
-// *******************CH 26...30**********************
+// *******************CH 26...34**********************
          // Question No 1
 // let userInput = +prompt("Enter positive integer:");
 // document.write("number: "+ userInput);
